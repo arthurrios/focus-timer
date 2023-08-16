@@ -45,7 +45,6 @@ html:not(.light) .ph-moon {
   margin: -1px;
   padding: 0;
   border: 0;
-  appearance: none;
 }
 
 body {
